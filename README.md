@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kocyigitkim&theme=onedark" alt="kocyigitkim" /></a> </p>
 
-- 🔭 I’m currently working on [autokube](https://github.com/kocyigitkim/autokube)
+- 🔭 I’m currently working on Cranna
 
 - 🌱 I’m currently learning **Kubernetes, Golang**
 
