@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammet</h1>
+<h1 align="center">Hi 👋, It's Muhammet</h1>
 <h3 align="center">Full-Stack Developer since I'm 6 years</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kocyigitkim&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="kocyigitkim" /> </p>
