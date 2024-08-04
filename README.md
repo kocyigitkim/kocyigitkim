@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, It's Muhammet</h1>
-<h3 align="center">Full-Stack Developer since I'm 6 years</h3>
+<h3 align="center">Mobile Team Lead</h3>
+
+<h5>Would you like to support me?</h5>
+<center>
+<a href="https://www.buymeacoffee.com/kocyigitkim"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=kocyigitkim&button_colour=ff0000&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+</center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kocyigitkim&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="kocyigitkim" /> </p>
 
